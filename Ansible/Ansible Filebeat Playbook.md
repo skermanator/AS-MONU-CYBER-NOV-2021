@@ -1,4 +1,4 @@
-# **Playbook to install & configure Filebeat**
+# **Ansible Filebeat Playbook**
   
     ---
     - name: Playbook to install & configure Filebeat

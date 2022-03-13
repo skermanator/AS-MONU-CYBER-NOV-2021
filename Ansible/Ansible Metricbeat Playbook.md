@@ -1,4 +1,4 @@
-# **Playbook to install & configure Metricbeat**
+# **Ansible Filebeat Playbook**
 
     ---
     - name: Playbook to install & configure Metricbeat

@@ -1,4 +1,4 @@
-# **Configure Elk VM with Docker**
+# **Ansible ELK Installation Playbook**
 
     ---
     - name: Configure Elk VM with Docker
