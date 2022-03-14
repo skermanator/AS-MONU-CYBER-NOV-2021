@@ -5,7 +5,7 @@ AS Monash CyberSecurity Bootcamp
 
 The files in this repository were used to configure the network depicted below.
 
-<img src="Diagrams/Anthony Skerman Wk 13 HW ELK Diagram . Project.drawio.jpg" alt="ELK Project Diagram" />
+<img src="Diagrams/Anthony Skerman Wk 13 HW ELK Diagram.jpg" alt="ELK Project Diagram" />
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook / yml files may be used to install only certain pieces of it, such as Filebeat.
